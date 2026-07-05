@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Lukáš Slešár — Web & AI Developer" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Lukáš 👋</h1>
 
 <p align="center">
