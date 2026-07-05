@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://cairn.sk"><img src="https://img.shields.io/badge/Website-cairn.sk-111111?logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:support@cairn.sk"><img src="https://img.shields.io/badge/Email-support%40cairn.sk-111111?logo=maildotru&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/based%20in-Slovakia%20%F0%9F%87%B8%F0%9F%87%B0-111111" alt="Slovakia">
-  <img src="https://img.shields.io/badge/focus-web%20%26%20AI-111111" alt="Web & AI">
-  <img src="https://img.shields.io/badge/open%20to-projects-111111" alt="Open to projects">
 </p>
 
 ---
@@ -44,4 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legenxxx&layout=compact&hide_border=true&theme=dark" alt="Top languages" height="150">
 </p>
 
-<p align="center"><sub>Open to interesting web &amp; AI projects — feel free to reach out.</sub></p>
+<p align="center"><sub>Open to interesting web &amp; AI projects — <a href="mailto:support@cairn.sk">support@cairn.sk</a> · <a href="https://cairn.sk">cairn.sk</a></sub></p>
